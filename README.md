@@ -1,30 +1,30 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the analysis
-On this analysis we tried to find out how many positions are retiring in the near future (with birth date between 952-1955).
-We try to create a list of eligible employees to join the mentorship program (with birth date in 1965.  
+On this analysis we tried to find out how many positions are retiring in the near future (with birth date between 952-1955).  
+We try to create a list of eligible employees to join the mentorship program (with birth date in 1965).  
 
 ## Results
-1) Based on our analysis , here are the positions who may retire in the near future.  
-  Senior Engineer (29414)  
-  Senior Staff (28254)  
-  Engineer (14222)  
-  Staff (12243)  
-  Technique Leader (4502)  
-  Assistant Engineer (1761)  
-  Manager (2)  
+1)  Based on our analysis , here are the positions who may retire in the near future.  
+    Senior Engineer (29414)  
+    Senior Staff (28254)  
+    Engineer (14222)  
+    Staff (12243)  
+    Technique Leader (4502)  
+    Assistant Engineer (1761)  
+    Manager (2)  
     
-  This is not accurate. This include all employees who may have term already.  
+    This is not accurate. This include all employees who may have term already.  
 
-  So I run another query to include only current employees only. Here is the summary.  
-  Senior Engineer (25916)  
-  Senior Staff (24926)  
-  Engineer (9285)  
-  Staff (7636)   
-  Technique Leader (3603)  
-  Assistant Engineer (109)  
-  Manager (2)  
-  TOTAL 71204  
+    So I run another query to include only current employees only. Here is the summary.  
+    Senior Engineer (25916) 
+    Senior Staff (24926)  
+    Engineer (9285)  
+    Staff (7636)   
+    Technique Leader (3603)  
+    Assistant Engineer (109)  
+    Manager (2)  
+    TOTAL 71204  
   
 2) I run another query to see what is the active head count of each position.  
   Senior Engineer (85942)  
