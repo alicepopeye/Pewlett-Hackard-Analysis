@@ -160,3 +160,18 @@ FROM current_emp as ce
 		ON (ce.emp_no = de.emp_no)
 	INNER JOIN departments AS d
 		ON (de.dept_no = d.dept_no);
+		
+SELECT * FROM current_emp;	
+SELECT * FROM retirement_info;
+SELECT * FROM departments;
+		
+--7.3.6 Create a retirement list for Sales and development department
+SELECT ri.emp_no,
+	ri.first_name,
+	ri.last_name,
+	de.dept_no
+INTO retirement_SnD
+FROM retirement_info as ri
+	INNER JOIN dept_emp as de
+		ON (ri.emp_no = de.emp_no)
+WHERE de.dept_no IN ('d005', 'd007');
