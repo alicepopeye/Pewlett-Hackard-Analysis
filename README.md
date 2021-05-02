@@ -48,14 +48,14 @@ We try to create a list of eligible employees to join the mentorship program (wi
   
 4) There are 1549 employees eligible for mentor position.  
    Here are the result for mentorship program.  
-
-  Senior Engineer (404)  
-  Senior Staff (307)  
-  Engineer (299)  
-  Staff (417)  
-  Technique Leader (77)  
-  Assistant Engineer (45)  
-  Manager (0)  
+   Senior Engineer (404)  
+   Senior Staff (307)  
+   Engineer (299)  
+   Staff (417)  
+   Technique Leader (77)  
+   Assistant Engineer (45)  
+   Manager (0)  
+   TOAL 1549  
 
 5) What is the perecentage of mentor for the retiree?  
   Senior Engineer (1.56%)  
@@ -69,7 +69,6 @@ We try to create a list of eligible employees to join the mentorship program (wi
 ## Summary
 
 1)  How many roles will need to be filled?  
-  
   Senior Engineer (25916)  
   Senior Staff (24926)  
   Engineer (9285)  
@@ -78,10 +77,9 @@ We try to create a list of eligible employees to join the mentorship program (wi
   Assistant Engineer (109)  
   Manager (2)  
   TOTAL 71204  
-    
   It is close to 20% of employee will retire.  
   
 2) Are there enough quaified, rertirement-readey employees in the departments to mento the next generation?  
  From the ratio between retireee and mentor, there are not enough mentor. Overall there is only 2% of mentor of the retiree.  
-   
- Please see attached Summary Image for comparison.  
+ 
+    Please see attached Summary Image for comparison.  
