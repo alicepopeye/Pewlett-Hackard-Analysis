@@ -36,7 +36,7 @@ We try to create a list of eligible employees to join the mentorship program (wi
   Manager (24)  
   TOTAL 371,243  
     
-3) What is the percetange of each position will be retire?  
+3) What is the percentange of each position will be retire?  
   Senior Engineer: 30.16% (25916 / 85942)  
   Senior Staff: 30.39% (24926 / 82031)  
   Engineer: 9.99% (9285 / 92936)  
@@ -47,7 +47,6 @@ We try to create a list of eligible employees to join the mentorship program (wi
   TOTAL: 19.18% (71204 / 371,243)  
   
 4) There are 1549 employees eligible for mentor position.  
-   Here are the result for mentorship program.  
    Senior Engineer (404)  
    Senior Staff (307)  
    Engineer (299)  
@@ -57,7 +56,7 @@ We try to create a list of eligible employees to join the mentorship program (wi
    Manager (0)  
    TOAL 1549  
 
-5) What is the perecentage of mentor for the retiree?  
+5) What is the percentage of mentor for the retiree?  
   Senior Engineer (1.56%)  
   Senior Staff (1.23%)  
   Engineer (3.22%)  
